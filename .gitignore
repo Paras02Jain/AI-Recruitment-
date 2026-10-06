@@ -1,0 +1,6 @@
+# Secrets & local data - never commit
+credentials.json
+calendar_token.pkl
+eduhire.db
+__pycache__/
+*.pyc
